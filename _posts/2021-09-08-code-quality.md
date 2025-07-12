@@ -16,7 +16,7 @@ date: 2021-09-08 18:34:55 +0800
   - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - Static code analysis
   - Pylint is integrated into Visual Code
-  - Find gudience [here](https://code.visualstudio.com/docs/python/linting).
+  - Find guidance [here](https://code.visualstudio.com/docs/python/linting).
 
 ## Testing
 - Unit test and system test
@@ -28,7 +28,7 @@ date: 2021-09-08 18:34:55 +0800
     - https://docs.python.org/3/library/unittest.mock.htmlP
 			
 ## Pull Request (PR)
-You can find detail gudience (https://google.github.io/eng-practices/). We summarize three items in the following.
+You can find detail guidance (https://google.github.io/eng-practices/). We summarize three items in the following.
 - Submit a complete PR (Tested code with tests)
 - Clear description (“Fix bug” is an inadequate CL description. What bug? What did you do to fix it? )
 - One PR one task

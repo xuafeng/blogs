@@ -1,7 +1,7 @@
 
 
 
-- inreresting posts
+- interesting posts
   - [Work, play, and motivation](https://thesephist.com/posts/play/)
   - [Trailer: The Social Dilemma](https://www.netflix.com/jp/title/81254224)
   - [Please Don’t Just Say Hello In Chat](https://sbmueller.github.io/nohello/)
